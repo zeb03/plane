@@ -1,5 +1,4 @@
 #include"sevice.h"
-
 int main() {
 	InitUser();
 	ReadInfo();
